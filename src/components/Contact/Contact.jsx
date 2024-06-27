@@ -13,18 +13,18 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageURL("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:rajghaznavi7@email.com">rajghaznavi7@email.com</a>
+          <a href="mailto:rajghaznavi7@gmail.com">rajghaznavi7@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageURL("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/posts/raja-mehdi-ali-khan-2998a6297_webscraping-python-datascience-activity-7208069203281539072-RUFH?utm_source=share&utm_medium=member_android">linkedin.com/rajamehdialikhan</a>
+          <a href="https://www.linkedin.com/posts/raja-mehdi-ali-khan-2998a6297_webscraping-python-datascience-activity-7208069203281539072-RUFH?utm_source=share&utm_medium=member_android">linkedin.com</a>
         </li>
         <li className={styles.link}>
           <img src={getImageURL("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/Raja-Mehdi-Ali-Khan">github.com/raja-mehdi-ali-khan</a>
+          <a href="https://github.com/Raja-Mehdi-Ali-Khan">github.com</a>
         </li>
       </ul>
     </footer>
