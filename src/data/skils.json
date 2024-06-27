@@ -1,0 +1,52 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c++.png"
+    },
+    
+    {
+      "title": "Basic Python",
+      "imageSrc": "skills/python.webp"
+    },
+    {
+      "title": "OOP",
+      "imageSrc": "skills/oop.png"
+    },
+    {
+      "title": "BeautifulSoup",
+      "imageSrc": "skills/beautifulSoup.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/posgresql.png"
+    }
+  ]
+  

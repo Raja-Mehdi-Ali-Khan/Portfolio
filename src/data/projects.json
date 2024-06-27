@@ -1,0 +1,27 @@
+[
+    {
+      "title": "CamCrew",
+      "imageSrc": "projects/camcrew.png",
+      "description": "CamCrew is an intuitive platform that connects clients with professional cameramen for capturing high-quality event moments seamlessly.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://camcrew.netlify.app/",
+      "source": "https://github.com/Raja-Mehdi-Ali-Khan/CAMCREW-"
+    },
+    {
+      "title": "Theme Scraping",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project involves web scraping TEDx website themes to analyze and categorize insightful topics discussed in TEDx talks.",
+      "skills": ["Beautiful Soup", "Chat-GPT"],
+      "demo": "https://www.linkedin.com/posts/raja-mehdi-ali-khan-2998a6297_webscraping-python-datascience-activity-7208069203281539072-RUFH?utm_source=share&utm_medium=member_android",
+      "source": "https://github.com/Raja-Mehdi-Ali-Khan/TEDx-Theme-Scraping"
+    },
+    {
+      "title": "Currency Converter",
+      "imageSrc": "projects/currencyConverter.png",
+      "description": "A web application that enables real-time currency conversion using an external API for up-to-date exchange rates.",
+      "skills": ["React", "Javascript", "Tailwind"],
+      "demo": "https://raja-mehdi-ali-khan.github.io/CurrencyConvertor/",
+      "source": "https://github.com/Raja-Mehdi-Ali-Khan/CurrencyConvertor"
+    }
+  ]
+  
